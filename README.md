@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## File Structure
+
+lib/main.dart - main source file
+assets - contains sample json file and icons
+fonts - contains custom fonts used in the project
+pubspec.yaml - yaml configuration file - used to configure the project, add dependencies, resources, etc.
