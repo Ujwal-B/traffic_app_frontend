@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## File Structure
 
-lib/main.dart - main source file
-assets - contains sample json file and icons
-fonts - contains custom fonts used in the project
-pubspec.yaml - yaml configuration file - used to configure the project, add dependencies, resources, etc.
+lib/main.dart - main source file\
+assets - contains sample json file and icons\
+fonts - contains custom fonts used in the project\
+pubspec.yaml - yaml configuration file - used to configure the project, add dependencies, resources, etc.\
